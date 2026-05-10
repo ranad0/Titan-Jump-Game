@@ -12,6 +12,12 @@ The game was developed as an educational project based on an endless vertical pl
 - Background music and sound effects
 - High score saved locally in `score.txt`
 
+## Demo Video
+
+Watch a short gameplay recording here:
+
+[Gameplay Demo](https://drive.google.com/file/d/1e5Q1aVsBVhjd46ZduImDbFSscbgzaCMq/view?usp=sharing)
+
 ## Project Structure
 
 ```text
