@@ -1,6 +1,3 @@
-# Ranad Jamal Oweis 169893
-# Shatha Bassam Arar 171454
-
 # import libraries
 import pygame
 import random
