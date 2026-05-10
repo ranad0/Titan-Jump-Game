@@ -1,9 +1,7 @@
 # Titan Jump
 
 Titan Jump is a simple 2D arcade jumping game built with Python and Pygame.  
-The game is inspired by the anime *Attack on Titan*, where the player controls Levi, jumps between platforms, avoids titans, and tries to achieve the highest score.
-
-> This is a fan-made educational project and is not affiliated with or endorsed by Attack on Titan.
+The game was developed as an educational project based on an endless vertical platformer tutorial, then customized with an *Attack on Titan*-inspired theme where the player controls Levi, jumps between platforms, avoids titans, and tries to achieve the highest score.
 
 ## Features
 
@@ -89,5 +87,21 @@ python main.py
 
 Created as a Python/Pygame game project by:
 
-- Ranad Jamal Oweis
-- Shatha Bassam Arar
+- Ranad Oweis
+- Shatha Arar
+
+This project was inspired by the anime *Attack on Titan* and was created for educational purposes only.
+
+The base gameplay structure was learned and developed with guidance from the PyGame Endless Vertical Platformer tutorial by Coding With Russ:
+
+- Tutorial: https://www.youtube.com/watch?v=5FMPAt0n3Nc&list=PLjcN1EyupaQlBSrfP4_9SdpJIcfnSJgzL
+- Original project by Coding With Russ: https://github.com/russs123/Jumpy
+
+We customized and expanded the project by adding our own theme, characters, enemy concept, assets, sounds, scoring logic, and Attack on Titan-inspired visual direction.
+
+This is a fan-made educational project and is not affiliated with or endorsed by *Attack on Titan*, Coding With Russ, or any original asset creators.
+
+## Contributors
+
+- [Ranad Oweis](https://github.com/ranad0)
+- [Shatha Arar](https://github.com/shathaarar)
