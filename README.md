@@ -45,8 +45,8 @@ titan-jump/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/titan-jump.git
-cd titan-jump
+git clone https://github.com/ranad0/Titan-Jump-Game.git
+cd Titan-Jump-Game
 ```
 
 2. Create and activate a virtual environment:
