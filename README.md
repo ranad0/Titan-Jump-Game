@@ -1,7 +1,9 @@
 # Titan Jump
 
 Titan Jump is a simple 2D arcade jumping game built with Python and Pygame.  
-The game was developed as an educational project based on an endless vertical platformer tutorial, then customized with an *Attack on Titan*-inspired theme where the player controls Levi, jumps between platforms, avoids titans, and tries to achieve the highest score.
+The project is based on an educational endless vertical platformer tutorial and was customized with an *Attack on Titan*-inspired theme where the player controls Levi, jumps between platforms, avoids titans, and tries to achieve the highest score.
+
+> This is a fan-made educational project and is not affiliated with or endorsed by *Attack on Titan*, Coding With Russ, or any original asset creators.
 
 ## Features
 
@@ -91,19 +93,18 @@ python main.py
 
 ## Credits
 
-Created as a Python/Pygame game project by:
+Created as a Python/Pygame educational game project by:
 
 - Ranad Oweis
 - Shatha Arar
 
-This project was inspired by the anime *Attack on Titan* and was created for educational purposes only.
-
-The base gameplay structure was learned and developed with guidance from the PyGame Endless Vertical Platformer tutorial by Coding With Russ:
+This project was developed with guidance from the PyGame Endless Vertical Platformer tutorial by Coding With Russ.
 
 - Tutorial: https://www.youtube.com/watch?v=5FMPAt0n3Nc&list=PLjcN1EyupaQlBSrfP4_9SdpJIcfnSJgzL
-- Original project by Coding With Russ: https://github.com/russs123/Jumpy
+- Original Jumpy project by Coding With Russ: https://github.com/russs123/Jumpy
 
-We customized and expanded the project by adding our own theme, characters, enemy concept, assets, sounds, scoring logic, and Attack on Titan-inspired visual direction.
+The original Jumpy project is licensed under the MIT License.  
+This project adapts the base vertical platformer concept and customizes it with an *Attack on Titan*-inspired theme, characters, enemies, sounds, scoring behavior, and visual direction.
 
 This is a fan-made educational project and is not affiliated with or endorsed by *Attack on Titan*, Coding With Russ, or any original asset creators.
 
@@ -111,3 +112,9 @@ This is a fan-made educational project and is not affiliated with or endorsed by
 
 - [Ranad Oweis](https://github.com/ranad0)
 - [Shatha Arar](https://github.com/shathaarar)
+
+## License
+
+This project is based on and adapted from the original Jumpy project by Coding With Russ, which is licensed under the MIT License.
+
+Original project: https://github.com/russs123/Jumpy
