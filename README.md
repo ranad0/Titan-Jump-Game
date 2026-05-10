@@ -1,6 +1,9 @@
 # Titan Jump
 
-Titan Jump is a simple 2D arcade jumping game built with Python and Pygame. The player controls Levi, jumps between platforms, avoids titans, and tries to beat the high score.
+Titan Jump is a simple 2D arcade jumping game built with Python and Pygame.  
+The game is inspired by the anime *Attack on Titan*, where the player controls Levi, jumps between platforms, avoids titans, and tries to achieve the highest score.
+
+> This is a fan-made educational project and is not affiliated with or endorsed by Attack on Titan.
 
 ## Features
 
