@@ -1,7 +1,7 @@
 # Titan Jump
 
 Titan Jump is a 2D endless vertical platformer game built with Python and Pygame.  
-Its gameplay is similar to classic vertical jumping games like *Doodle Jump*, where the player jumps between platforms and tries to reach the highest score possible. The project was developed as an educational game based on a PyGame tutorial, then customized with an *Attack on Titan*-inspired theme where the player controls Levi, avoids titans, and continues climbing as the difficulty increases.
+Its gameplay is similar to classic endless vertical jumping games like *Doodle Jump*, where the player jumps between platforms and tries to reach the highest score possible. The project was developed as an educational game based on a PyGame tutorial, then customized with an *Attack on Titan*-inspired theme where the player controls Levi, avoids titans, and continues climbing as the difficulty increases.
 
 > This is a fan-made educational project and is not affiliated with or endorsed by *Attack on Titan*, Coding With Russ, or any original asset creators.
 
